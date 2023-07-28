@@ -1,0 +1,51 @@
+/*
+selector{
+    propiedad:valor;
+    propiedad:valor;
+    proopiedad:valor;
+}
+
+*/
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:rgb(1, 61, 6) ;
+
+}
+img{
+    width: 300px;
+}
+
+h3{
+    color:rgb(0, 0, 0);
+}
+/* para editar clases */
+.P-Reptiles{
+    font-family: 'Lora', serif;
+font-family: 'Roboto Mono', monospace;
+}
+.main.title{
+    font-family: 'Lora', serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Rubik Dirt', cursive;
+}
+.menu{
+    /*div- flexible para moberse con los elementos dentro de si*/
+    display:flex;
+    /*column reverse - pone los lementos de una linea en columna y al reves (probar quitando br)*/
+    flex-direction: column-reverse;
+    align-items: center;
+}
+a{
+    color: blue;
+    /*Linea debajo del ancla*/
+    text-decoration: none;
+}
+.P-Mamiferos{
+    font-family: 'Lora', serif;
+font-family: 'Roboto Mono', monospace;
+}
+
+.P-Anfibios{
+    font-family: 'Lora', serif;
+font-family: 'Roboto Mono', monospace;
+}
