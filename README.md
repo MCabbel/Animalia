@@ -1,2 +1,2 @@
 # Animalia
-Página de animalitos en html
+Página de animalitos en html y css
